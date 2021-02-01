@@ -15,7 +15,7 @@ sections:
         url: /features
         style: secondary
     image_alt: Hero section placeholder image
-    media_position: left
+    media_position: top
     media_width: fifty
     align: left
     padding_top: large
